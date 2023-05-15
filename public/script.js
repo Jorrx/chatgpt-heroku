@@ -1,6 +1,3 @@
-
-
-const API_KEY = "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";
 const subbutton = document.querySelector("#submit");
 const result = document.querySelector("#result");
 const question = document.getElementById("question");
